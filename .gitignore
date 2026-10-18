@@ -1,0 +1,14 @@
+﻿# secrets
+.env
+credentials.json
+
+# environnement Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# données et logs
+data/raw/
+data/processed/
+logs/
